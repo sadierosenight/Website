@@ -1,0 +1,184 @@
+body{
+    /*background-color: #8Ab6D6;*/
+    /*background-color: #2978b5;*/
+    /*background-color: #0061a8;*/
+    background-color: #f8e4be;
+    font-size: 18px;
+}
+
+html{
+    background-color: #f8e4be;
+    font-size: 18px;
+}
+
+
+.container-fluid{
+    font-family: 'Indie Flower', cursive;
+    background-color: #f8e4be;
+}
+
+h1 {
+    font-size: 50px !important;
+}
+
+h2 {
+    font-size: 40px !important;
+}
+
+
+
+.l1{
+    color: white;
+    font-size: 30px;
+    background-color: #8Ab6D6 ;
+    position: relative;
+    padding: 0 5px;
+}
+
+.l1n {
+    color: white;
+    font-size: 30px;
+    background-color: #A4D1FF;
+    position: relative;
+    padding: 0 5px;
+}
+
+.order-button {
+    color: black !important;
+    font-size: 20px !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    border-color: #D59C71 !important;
+    border-width:3px!important;
+}
+
+.order-button:hover {
+    background-color: #D59C71!important;
+}
+
+.order-button:focus{
+    box-shadow:none !important;
+}
+
+.l3{
+    color: white;
+    font-size: 30px;
+    background-color:  #58A0D6 ;
+    position: relative;
+
+    padding: 0 5px;
+}
+
+.l4{
+    color: white;
+    font-size: 30px;
+    background-color: #0061a8 ;
+    position: relative;
+
+    padding: 0 5px;
+}
+
+.l2{
+    color: white;
+    font-size: 30px;
+    background-color: grey ;
+    position: relative;
+
+    padding: 0 5px;
+}
+
+.b1{
+    padding: 15px 0;
+    background-color: #8Ab6D6;
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.b1n {
+    padding: 15px 0;
+    background-color: #A4D1FF;
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.b2{
+    padding: 15px 0;
+    background-color: #58A0D6;
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.b3{
+    padding: 15px 0;
+    background-color: #0061a8;
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.image-gallery{
+    width: 80%;
+    height: 50%;
+    background-color: yellow;
+}
+
+.container{
+    background-color: #f8e4be;
+}
+
+.row-im{
+    height: 50px;
+    width: 50px;
+}
+
+.car-img{
+    width: 80% !important;
+}
+
+
+.heading{
+    text-decoration: underline;
+    color: black;
+    text-underline: black;
+}
+
+.heading:hover{
+    color: black;
+}
+
+.l1:hover{
+    color: white;
+}
+
+.l2:hover{
+    color: white;
+}
+
+.l3:hover{
+    color: white;
+}
+
+.l4:hover{
+    color: white;
+}
+
+.extra{
+    font-size: 25px !important;
+}
+
+.splitter{
+    height: 10px !important;
+    color: #0061a8;
+}
+
+.link{
+    color: #58A0D6 !important;
+    font-weight: 700;
+}
+
+.link:hover{
+    color: #0061a8;
+}
+
+lottie-player{
+    margin: auto;
+}
